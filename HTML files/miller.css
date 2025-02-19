@@ -1,0 +1,8 @@
+.joash{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 5px;
+}
+.miller{
+    border-radius: 50px;
+}
